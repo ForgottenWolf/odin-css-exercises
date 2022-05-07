@@ -1,0 +1,16 @@
+.p-class {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.p-secondary {
+    font-size: 24px;
+}
+#id-1 {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+#id-2 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
